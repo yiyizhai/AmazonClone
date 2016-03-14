@@ -13,7 +13,16 @@ app.get('/name',function(req, res){
 	//response with some data
 	var name = "Yiyi";
 	res.json("My name is " + name);
-})
+});
+
+//sending some data to the server
+app.post();
+
+//update a specific set of data
+app.put();
+
+//delete data
+app.delete();
 
 //run the server
 app.listen(8000, function(err){
