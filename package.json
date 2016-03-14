@@ -1,0 +1,22 @@
+{
+  "name": "amazonclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyizhai/AmazonClone.git"
+  },
+  "author": "YiyiZhai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiyizhai/AmazonClone/issues"
+  },
+  "homepage": "https://github.com/yiyizhai/AmazonClone#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
